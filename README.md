@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as a **Full Stack Dev
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](https://your-portfolio-link.com)
+🔗 [View Portfolio](https://chandrika-punage-portfolio.netlify.app/)
 
 ---
 
